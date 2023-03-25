@@ -4,16 +4,14 @@ navbar_entries:
 
   - title: blog
     url: blog
-
-  - title: website
-    url: https://www.abhinav.co
-
+  
 project_entries:
-  - title: Project 1
-    url: overview-post
-    desc: This is an example project, configured in _data/home.yml
-
-  - title: Project 2
+  - title: Netflix movies and TVs 
+    url: https://github.com/HoangGiangTruong/Netflix-movies-and-TVs
+    desc: In the pandemic time, as a student, I spent so much time in watching movies/ TVs from Netflix. Because of that, I have an idea that what if I could analyze the data from Netflix to see how Netflix is doing. 
+    I wasnt sure that I could find the dataset, but I was lucky that this is a famous dataset in Kaggle. In that way, I could try my best to practice what I have learned with this.
+ 
+ - title: Project 2
     url: overview-post
     desc: Projects are shown in card layout
 
