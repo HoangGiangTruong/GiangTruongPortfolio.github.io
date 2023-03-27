@@ -4,7 +4,10 @@ navbar_entries:
 
   - title: blog
     url: blog
-  
+    
+  - title: website
+    url: https://www.linkedin.com/in/giangtruong2903
+
 project_entries:
   - title: Netflix movies and TVs 
     url: https://github.com/HoangGiangTruong/Netflix-movies-and-TVs
