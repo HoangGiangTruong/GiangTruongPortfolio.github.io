@@ -9,50 +9,36 @@ navbar_entries:
     url: https://hoanggiangtruong.github.io
 
 project_entries:
+
+  - title: SQL Challenge #1
+    url: https://github.com/HoangGiangTruong/SQLChallenge1
+    desc: This is the SQL challenge from Danny Ma https://8weeksqlchallenge.com/case-study-1/ which has helped me to practice my SQL skill  
+
+  - title: SQL Challenge #2
+    url: overview-post
+    desc: The harder SQL challenge from Danny Ma (https://8weeksqlchallenge.com/case-study-2/). I found out that this is so much harder than challenge 1.
+    highlight: WIP 
+ 
   - title: Web Scrapping
     url: https://github.com/HoangGiangTruong/AmazonScraping
     desc: This is an Amazon Scrapping project, I created it in order to find my lovely coffee grinder price drop 
-
-  - title: Project 2
-    url: overview-post
-    desc: Projects are shown in card layout
-
-  - title: Project 3
-    url: overview-post
-    desc: You can control visibility from _config.yml file
-
-  - title: Project 4
-    url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
-    highlight: WIP
-
-  - title: Natural disasters 
-    url: https://github.com/HoangGiangTruong/natural-disasters
-    desc: The PowerBI data visualization about the natural disasters in the summer, since last year we faced the extreme weather, especially in the Asia. 
     
-
   - title: Netflix movies and TVs
     url: https://github.com/HoangGiangTruong/Netflix-movies-and-TVs
     desc: The analysis of movies and TV show using R programming that I spent my time during pandemic time because it is the time where people pay so much attention on home streaming. 
 
 old_project_entries:
-  - title: Soopr
-    url: https://www.soopr.co
-    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
-    highlight: NEW
 
-  - title: Cookie
-    url: https://github.com/abhinavs/cookie
-    desc: An open source landing website with supporting pages and integrated blog
+  - title: Natural disasters 
+    url: https://github.com/HoangGiangTruong/natural-disasters
+    desc: The PowerBI data visualization about the natural disasters in the summer, since last year we faced the extreme weather, especially in the Asia. 
+  
+  - title: Netflix movies and TVs
+    url: https://github.com/HoangGiangTruong/Netflix-movies-and-TVs
+    desc: The analysis of movies and TV show using R programming that I spent my time during pandemic time because it is the time where people pay so much attention on home streaming. 
 
-  - title: Moonwalk
-    url: https://github.com/abhinavs/moonwalk
-    desc: A fast and minimalist Jekyll blog theme with clean dark mode
 
-  - title: Humangous
-    url: https://www.humangous.co
-    desc: The better people know you, the better they collaborate
-
+ 
 footer_entries:
   - title: Giang Truong's homepage
     url:  https://hoanggiangtruong.github.io
