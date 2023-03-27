@@ -4,22 +4,22 @@ navbar_entries:
 
   - title: blog
     url: blog
-    
+
   - title: website
-    url: https://www.linkedin.com/in/giangtruong2903
+    url: https://www.abhinav.co
 
 project_entries:
-  - title: Netflix movies and TVs 
-    url: https://github.com/HoangGiangTruong/Netflix-movies-and-TVs
-    desc: In the pandemic time, as a student, I spent so much time in watching movies/ TVs from Netflix. Because of that, I have an idea that what if I could analyze the data from Netflix to see how Netflix is doing. I wasnt sure that I could find the dataset, but I was lucky that this is a famous dataset in Kaggle. In that way, I could try my best to practice what I have learned with this.
- 
- - title: Amazon Scrapping
-    url: https://github.com/HoangGiangTruong/AmazonScraping
-    desc: As someone who love coffee and has affected by pandemic, I have to step up my game in the coffee related. I have bought some equipments to brew coffee at home. One of the most important factor is the grind size, it could be super fine to coarse. It is the reason for me to decide to check the price for high end grinder price
+  - title: Project 1
+    url: overview-post
+    desc: This is an example project, configured in _data/home.yml
+
+  - title: Project 2
+    url: overview-post
+    desc: Projects are shown in card layout
 
   - title: Project 3
     url: overview-post
-    desc: dasdas
+    desc: You can control visibility from _config.yml file
 
   - title: Project 4
     url: overview-post
@@ -54,11 +54,14 @@ old_project_entries:
     desc: The better people know you, the better they collaborate
 
 footer_entries:
-  - title: LinkedIn
-    url: https://www.linkedin.com/in/giangtruong2903/
+  - title: abhinav's homepage
+    url: https://www.abhinav.co
+
+  - title: twitter
+    url: https://twitter.com/abhinav
 
   - title: github
-    url: https://github.com/HoangGiangTruong
+    url: https://github.com/abhinavs
 
   - title: feed
     url: feed.xml
@@ -94,5 +97,3 @@ misc_entries:
 
           - title: it is easy to use, see _data/home.yml to see how to configure it.
             url: false
-
-
