@@ -12,20 +12,17 @@ project_entries:
 
   - title: SQL Challenge #1
     url: https://github.com/HoangGiangTruong/SQLChallenge1
-    desc: This is the SQL challenge from Danny Ma https://8weeksqlchallenge.com/case-study-1/ which has helped me to practice my SQL skill  
+    desc: This is the SQL challenge from Danny Ma which has helped me to practice my SQL skill  
 
   - title: SQL Challenge #2
     url: overview-post
-    desc: The harder SQL challenge from Danny Ma (https://8weeksqlchallenge.com/case-study-2/). I found out that this is so much harder than challenge 1.
+    desc: The harder SQL challenge from Danny Ma. I found out that this is so much harder than challenge 1.
     highlight: WIP 
  
   - title: Web Scrapping
     url: https://github.com/HoangGiangTruong/AmazonScraping
     desc: This is an Amazon Scrapping project, I created it in order to find my lovely coffee grinder price drop 
     
-  - title: Netflix movies and TVs
-    url: https://github.com/HoangGiangTruong/Netflix-movies-and-TVs
-    desc: The analysis of movies and TV show using R programming that I spent my time during pandemic time because it is the time where people pay so much attention on home streaming. 
 
 old_project_entries:
 
