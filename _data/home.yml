@@ -54,11 +54,11 @@ old_project_entries:
     desc: The better people know you, the better they collaborate
 
 footer_entries:
-  - title: abhinav's homepage
-    url: https://www.abhinav.co
+  - title: Giang Truong's homepage
+    url:  https://hoanggiangtruong.github.io/Portfolio/
 
-  - title: twitter
-    url: https://twitter.com/abhinav
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/giangtruong2903/
 
   - title: github
     url: https://github.com/abhinavs
@@ -84,7 +84,7 @@ misc_entries:
     url: false
     entries:
       - title: on Github
-        url: https://github.com/HoangGiangTruong/AmazonScraping
+        url:  https://hoanggiangtruong.github.io/Portfolio/
 
       - title: originally built for abhinav's homepage
         url: https://www.abhinav.co
