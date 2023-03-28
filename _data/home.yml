@@ -13,6 +13,7 @@ project_entries:
   - title: SQL Challenge #1
     url: https://github.com/HoangGiangTruong/SQLChallenge1
     desc: This is the SQL challenge from Danny Ma which has helped me to practice my SQL skill  
+    image: SQL challenge 1
 
   - title: SQL Challenge #2
     url: overview-post
